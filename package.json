@@ -1,0 +1,20 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "Fitness Tracker application to track the distance, duration, and exercises of a workout, using MongoDB, express routing, and Mongoose.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daliyaebenny/Fitness-Tracker.git"
+  },
+  "author": "Daliya Benny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daliyaebenny/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/daliyaebenny/Fitness-Tracker#readme"
+}
