@@ -24,7 +24,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 1. Homepage displaying last workout
 
-![Site](public/assets/)
+![Site](public/assets/01.png)
 
 2. Creating Workouts
 
@@ -33,7 +33,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 3. Last Week's Summary
 
-![Site](public/assets)
+![Site](public/assets/02.png)
 
 ### Snippets
 
