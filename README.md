@@ -24,7 +24,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 1. Homepage displaying last workout
 
-![Site](public/assets/homepage.png)
+![Site](public/assets/)
 
 2. Creating Workouts
 
@@ -33,7 +33,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 3. Last Week's Summary
 
-![Site](public/assets/dash.png)
+![Site](public/assets)
 
 ### Snippets
 
@@ -75,8 +75,8 @@ HTML,CSS,Javascript,Bootstrap,NodeJS,Express,MongoDB
 
    
 ## Links    
- - ![Github]()    
- - ![Live]()
+ - [Github](https://github.com/daliyaebenny/Fitness-Tracker.git/)    
+ - [Live](https://infinite-caverns-58397.herokuapp.com/)
 
   
 
