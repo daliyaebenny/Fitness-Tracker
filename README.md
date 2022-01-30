@@ -64,7 +64,7 @@ HTML, CSS, Javascript, Bootstrap,  NodeJS,Express, MongoDB
    
 ## Links    
  - [Github](https://github.com/daliyaebenny/Fitness-Tracker.git/)    
- - [Live](https://infinite-caverns-58397.herokuapp.com/)
+ - [Deployed](https://infinite-caverns-58397.herokuapp.com/)
 
   
 
