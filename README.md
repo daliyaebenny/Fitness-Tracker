@@ -8,7 +8,6 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 - npm install
 - node server.js
 
-## Usage
 
 ### Screeshots
 
@@ -53,7 +52,6 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 * This function will add an exercise to the array of exercises that belong to the workout with the given id. Here we will locate the workout with the given ID and update its fields. We will increase the total duration of the workout by the duration of the exercise being inserted. We will push the exercise to the array of exercises.
 
 
-## Credits
 
 ### Author
 
@@ -61,7 +59,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 ### Technology
 
-HTML,CSS,Javascript,Bootstrap,NodeJS,Express,MongoDB
+HTML, CSS, Javascript, Bootstrap,  NodeJS,Express, MongoDB
 
    
 ## Links    
